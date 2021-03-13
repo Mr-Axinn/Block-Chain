@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hash
+comment1.params=password
+comment1.target=Hash(java.lang.String)
+comment2.params=input
+comment2.target=byte[]\ getSHA(java.lang.String)
+comment3.params=hash
+comment3.target=java.lang.String\ toHexString(byte[])
+comment4.params=
+comment4.target=java.lang.String\ getHash()
+numComments=5

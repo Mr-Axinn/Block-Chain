@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Block
+comment1.params=Indvidual\ PrevHash\ TimeStamp\ Index\ Nonce\ Difficulty
+comment1.target=Block(Individual,\ java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=Individual\ getIndividual()
+comment3.params=
+comment3.target=java.lang.String\ getPrevHash()
+comment4.params=
+comment4.target=java.lang.String\ getTimeStamp()
+comment5.params=
+comment5.target=int\ getNonce()
+comment6.params=
+comment6.target=int\ getIndex()
+comment7.params=
+comment7.target=java.lang.String\ getDifficulty()
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GovernmentAccess
+comment1.params=Act\ Accounts\ BlockChain
+comment1.target=GovernmentAccess(Account,\ java.util.ArrayList,\ BlockChain)
+comment2.params=userName
+comment2.target=boolean\ grantApproval(java.lang.String)
+comment3.params=userBlock\ username\ SSN
+comment3.target=Individual\ modifyData(Block,\ java.lang.String,\ java.lang.String)
+comment4.params=str
+comment4.target=java.lang.String\ controlInput(java.lang.String)
+comment5.params=
+comment5.target=Individual\ createIndividual()
+numComments=6

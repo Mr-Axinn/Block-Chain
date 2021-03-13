@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=BlockChainDriver
+comment1.params=
+comment1.target=void\ main()
+comment10.params=accounts
+comment10.target=void\ initiateProgram(java.util.ArrayList)
+comment11.params=accounts
+comment11.target=void\ saveProgram(java.util.ArrayList)
+comment12.params=accounts
+comment12.target=void\ closeProgram(java.util.ArrayList)
+comment2.params=act\ accounts\ blockChain
+comment2.target=void\ userAccess(Account,\ java.util.ArrayList,\ BlockChain)
+comment3.params=act\ accounts\ blockChain
+comment3.target=void\ adminAccess(Account,\ java.util.ArrayList,\ BlockChain)
+comment4.params=accounts
+comment4.target=Account\ logIn(java.util.ArrayList)
+comment5.params=username\ accounts
+comment5.target=Account\ checkUsername(java.lang.String,\ java.util.ArrayList)
+comment6.params=password\ act
+comment6.target=java.lang.Boolean\ checkPassword(java.lang.String,\ Account)
+comment7.params=password
+comment7.target=java.lang.Boolean\ createPassword(java.lang.String)
+comment8.params=accounts
+comment8.target=void\ createAccount(java.util.ArrayList)
+comment9.params=
+comment9.target=java.lang.String\ generateSalt()
+numComments=13

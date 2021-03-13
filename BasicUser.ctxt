@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BasicUser
+comment1.params=Act
+comment1.target=BasicUser(Account)
+comment2.params=password
+comment2.target=void\ changeMyPassword(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCurrentAproval()
+numComments=4
